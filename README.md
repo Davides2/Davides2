@@ -1,0 +1,4 @@
+- Hi, I'm David ( @Davides2 )
+- I'm interested in videogames and engeniering
+- I'm currently learning Python and Java, I'm a beginner in software engeniering
+- Pronouns: He/Him
